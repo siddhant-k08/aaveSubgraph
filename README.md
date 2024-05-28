@@ -8,9 +8,9 @@ This repository is an example that demonstrates how to query subgraphs from your
 Created by Siddhant Kulkarni. Twitter: https://twitter.com/Siddhant8903
 
 # Subgraph Details
-Subgraph Name: Aave V2 Ethereum
-Subgraph ID: C2zniPn45RnLDGzVeGZCx2Sw3GXrbc9gL4ZfL8B8Em2j
-Subgraph link: https://thegraph.com/explorer/subgraphs/C2zniPn45RnLDGzVeGZCx2Sw3GXrbc9gL4ZfL8B8Em2j?v=0&view=Overview&chain=arbitrum-one
+- Subgraph Name: Aave V2 Ethereum
+- Subgraph ID: C2zniPn45RnLDGzVeGZCx2Sw3GXrbc9gL4ZfL8B8Em2j
+- Subgraph link: https://thegraph.com/explorer/subgraphs/C2zniPn45RnLDGzVeGZCx2Sw3GXrbc9gL4ZfL8B8Em2j?v=0&view=Overview&chain=arbitrum-one
 
 Currently, two official plugins are available:
 
